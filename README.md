@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfrontend%2Bdeveloper&psig=AOvVaw0l5XFsSGKPD0GSxf3YmytB&ust=1709123151603000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj68YzCy4QDFQAAAAAdAAAAABA1)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyloview.com%2Fposter-glowing-neon-line-web-design-and-front-end-development-icon-isolated-no-EA43A9A&psig=AOvVaw0l5XFsSGKPD0GSxf3YmytB&ust=1709123151603000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj68YzCy4QDFQAAAAAdAAAAABA6)
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
