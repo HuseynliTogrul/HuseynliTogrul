@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/04/63/35/50/360_F_463355068_Jk8Ja5iAPB6pti49IkvwWWVuoEo9BUSU.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
