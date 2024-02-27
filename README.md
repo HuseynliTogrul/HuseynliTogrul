@@ -1,4 +1,3 @@
-![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg?w=1140&ssl=1)
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
