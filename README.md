@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplopdo.com%2F2021%2F10%2F21%2Fcareer-path-of-a-frontend-developer%2F&psig=AOvVaw0l5XFsSGKPD0GSxf3YmytB&ust=1709123151603000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj68YzCy4QDFQAAAAAdAAAAABBF)
+![MasterHead](https://t3.ftcdn.net/jpg/04/63/35/50/360_F_463355068_Jk8Ja5iAPB6pti49IkvwWWVuoEo9BUSU.jpg)
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
