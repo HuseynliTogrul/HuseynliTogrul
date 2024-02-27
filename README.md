@@ -1,4 +1,4 @@
-![MasterHead]([https://plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ffront-end-development-company-india-it-services-india&psig=AOvVaw0l5XFsSGKPD0GSxf3YmytB&ust=1709123151603000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj68YzCy4QDFQAAAAAdAAAAABAe))
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfrontend%2Bdeveloper&psig=AOvVaw0l5XFsSGKPD0GSxf3YmytB&ust=1709123151603000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj68YzCy4QDFQAAAAAdAAAAABA1)
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
