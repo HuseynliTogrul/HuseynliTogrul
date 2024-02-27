@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprofile-background&psig=AOvVaw2PXO1Pja7Kn8cdhJJ4MC4g&ust=1709120654223000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCUk_q4y4QDFQAAAAAdAAAAABAS)
+[![MasterHead](https://plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg)
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
