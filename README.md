@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HuseynliTogrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseynlitogrul" alt="huseynlitogrul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseynlitogrul" alt="HuseynliTogrul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
